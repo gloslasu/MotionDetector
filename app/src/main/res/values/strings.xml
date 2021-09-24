@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string name="info">Podaj numer na który mam dzwonić po wykryciu ruchu:</string>
+</resources>
